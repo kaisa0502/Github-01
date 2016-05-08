@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"THIS IS MY FIRST COMMIT");
     NSLog(@"abc");
+    NSLog(@"123");
 }
 
 - (void)didReceiveMemoryWarning {
