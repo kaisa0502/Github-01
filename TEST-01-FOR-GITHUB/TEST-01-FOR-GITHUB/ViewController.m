@@ -20,6 +20,7 @@
     NSLog(@"THIS IS MY FIRST COMMIT");
     NSLog(@"abc");
     NSLog(@"123");
+    NSLog(@"123abc");
 }
 
 - (void)didReceiveMemoryWarning {
